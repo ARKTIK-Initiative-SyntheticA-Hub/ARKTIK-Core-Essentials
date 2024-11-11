@@ -1,3 +1,5 @@
+# Save the Installation Guide content as a .md file
+installation_guide_content = """
 # Installation Guide for ARKTIK Core Essentials
 
 ## Prerequisites
