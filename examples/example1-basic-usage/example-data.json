@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ARKTIK Example 1",
+    "value": 42,
+    "description": "This is a sample input for demonstrating basic usage of the ARKTIK Core Essentials module."
+  },
+  {
+    "name": "ARKTIK Example 2",
+    "value": 15,
+    "description": "Another data entry that should be filtered out based on the filter criteria."
+  }
+]
